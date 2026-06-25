@@ -1,4 +1,4 @@
-#include "emulator/gps.h"
+#include "device/emulator/gps.h"
 
 bool GpsEmulator::ReadPosition(vehicle_state &state)
 {

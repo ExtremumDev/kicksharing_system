@@ -2,7 +2,7 @@
 #ifndef GPS_EMULATOR_H_SENTRY
 #define GPS_EMULATOR_H_SENTRY
 
-#include "sensor_interface.h"
+#include "device/interface/sensor_interface.h"
 
 
 class GpsEmulator : public GpsSensor{
